@@ -40,4 +40,4 @@ I have experience on:</p>
 <li> Diffusion Models (Sharif University) </li>
 </ul>
 
-In my non-academic life, I enjoy hiking! 
+In my non-academic life, I enjoy hiking & biking! 
