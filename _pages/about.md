@@ -25,7 +25,7 @@ My research interests lie in the area of:</p>
 <li> Deep Learning </li>
 <li> Computer Vision </li>
 <li> Adversarial Training & Robustness </li>
-<li> Generalization of Deep Models </li>
+<li> Domain Generalization </li>
 </ul>
 
 Throughout my undergraduate studies, I've had the opportunity to work with <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en"> Professor Alexandre Alahi</a>, <a href="https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en"> Professor Sabine Süsstrunk</a>, and <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en"> Professor MohammadHosein Rohban</a>.
@@ -33,8 +33,8 @@ Throughout my undergraduate studies, I've had the opportunity to work with <a hr
 I have working experience on:
 
 <ul style="margin-top: -1%;" markdown='1'>
-<li> Domain Adaptation and Keypoint Detection (<a href="https://www.epfl.ch/labs/vita/">VITA</a> at EPFL) </li>
-<li> Image Segmentation (<a href="https://www.epfl.ch/labs/ivrl/">IVRL</a> at EPFL) </li>
+<li> Keypoint Detection & Domain Adaptation (<a href="https://www.epfl.ch/labs/vita/">VITA</a> at EPFL) </li>
+<li> Image Segmentation & Domain Generalization (<a href="https://www.epfl.ch/labs/ivrl/">IVRL</a> at EPFL) </li>
 <li> Adversarial Training & Robustness (Sharif University) </li>
 <li> Generalization of Deep Models (Sharif University) </li>
 <li> Diffusion Models (Sharif University) </li>
