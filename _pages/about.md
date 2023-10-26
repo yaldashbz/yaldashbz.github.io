@@ -35,9 +35,9 @@ I have experience on:</p>
 <ul style="margin-top: -1%;" markdown='1'>
 <li> Domain Adaptation and Keypoint Detection (<a href="https://www.epfl.ch/labs/vita/">VITA</a> at EPFL) </li>
 <li> Image Segmentation (<a href="https://www.epfl.ch/labs/ivrl/">IVRL</a> at EPFL) </li>
-<li> Adversarial Training & Robustness (at Sharif University</a>) </li>
-<li> Generalization of Deep Models (at Sharif University) </li>
-<li> Diffusion Models (at Sharif University) </li>
+<li> Adversarial Training & Robustness (Sharif University) </li>
+<li> Generalization of Deep Models (Sharif University) </li>
+<li> Diffusion Models (Sharif University) </li>
 </ul>
 
 In my non-academic life, I enjoy hiking! 
