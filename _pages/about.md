@@ -17,7 +17,7 @@ ul.twocol { width: 110%; }
 
 <p style="text-align: justify;">
 <b>Hi!</b> 
-<br> I’m Yalda, a last year Computer Engineering student at <a href="https://en.sharif.edu/"> Sharif University of Technology</a>. I’m set to complete my bachelor’s degree in January 2024. <br>
+<br> I’m Yalda, a senior studying Computer Engineering at <a href="https://en.sharif.edu/">Sharif University of Technology</a>. I'm on the path to earning my bachelor's degree in January 2024. <br>
 
 My research interests lie in the area of:</p>
 
@@ -28,9 +28,9 @@ My research interests lie in the area of:</p>
 <li> Generalization of Deep Models </li>
 </ul>
 
-During my undergraduate studies, I was very fortunate to work with <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en"> Professor Alexandre Alahi</a>, <a href="https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en"> Professor Sabine Süsstrunk</a>, and <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en"> Professor MohammadHosein Rohban</a>.
+Throughout my undergraduate studies, I've had the opportunity to work with <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en"> Professor Alexandre Alahi</a>, <a href="https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en"> Professor Sabine Süsstrunk</a>, and <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en"> Professor MohammadHosein Rohban</a>.
 
-I have experience on:</p>
+I have working experience on:
 
 <ul style="margin-top: -1%;" markdown='1'>
 <li> Domain Adaptation and Keypoint Detection (<a href="https://www.epfl.ch/labs/vita/">VITA</a> at EPFL) </li>
