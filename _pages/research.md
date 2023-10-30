@@ -1,4 +1,9 @@
-## Research Experience
+---
+layout: archive
+title: "Research Experience"
+permalink: /research/
+author_profile: true
+---
 
 ### Research Intern at [Image and Visual Representation Lab, EPFL](https://www.epfl.ch/labs/ivrl/)
 - **Supervisor:** [Prof. Sabine Süsstrunk](https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en)
