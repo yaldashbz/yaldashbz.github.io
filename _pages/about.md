@@ -1,14 +1,11 @@
 ---
 permalink: /
-title: ""
-excerpt: "About me"
+title: "Hi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-### Hi!
 
 <style>
 .farsi { font-family:PERSWEB; font-weight: bold; font-size:11pt; }
