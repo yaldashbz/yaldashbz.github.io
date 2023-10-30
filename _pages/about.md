@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+### Hi!
+
 <style>
 .farsi { font-family:PERSWEB; font-weight: bold; font-size:11pt; }
 .header-color { color:#0f2b46; }
@@ -15,7 +17,6 @@ redirect_from:
 ul.twocol { width: 110%; }
 </style>
 
-### Hi!
 <p style="text-align: justify;">
 I’m Yalda, a senior studying Computer Engineering at <a href="https://en.sharif.edu/">Sharif University of Technology</a>. I'm on the path to earning my bachelor's degree in January 2024. <br>
 
