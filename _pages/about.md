@@ -20,10 +20,11 @@ I’m Yalda, a senior studying Computer Engineering at <a href="https://en.shari
 My research interests lie in the area of:</p>
 
 <ul style="margin-top: -1%;" markdown='1'>
-<li> Deep Learning </li>
-<li> Computer Vision </li>
-<li> Adversarial Training & Robustness </li>
-<li> Domain Generalization </li>
+<li> Machine Learning & Deep Learning </li>
+<li> Computer Vision & Embodied AI </li>
+<li> Generalization & Robustness </li>
+<li> Domain Adaptation & Transfer Learning </li>
+<li> Multi-task & Meta-learning </li>
 </ul>
 
 Throughout my undergraduate studies, I've had the opportunity to work with <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en"> Professor Alexandre Alahi</a>, <a href="https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en"> Professor Sabine Süsstrunk</a>, and <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en"> Professor MohammadHosein Rohban</a>.
@@ -32,10 +33,10 @@ I have working experience on:
 
 <ul style="margin-top: -1%;" markdown='1'>
 <li> Keypoint Detection & Domain Adaptation (<a href="https://www.epfl.ch/labs/vita/">VITA</a> at EPFL) </li>
-<li> Image Segmentation & Domain Generalization (<a href="https://www.epfl.ch/labs/ivrl/">IVRL</a> at EPFL) </li>
-<li> Adversarial Training & Robustness (Sharif University) </li>
+<li> Image Segmentation & Transfer Learning (<a href="https://www.epfl.ch/labs/ivrl/">IVRL</a> at EPFL) </li>
+<li> Adversarial Learning & Robustness (Sharif University) </li>
 <li> Generalization of Deep Models (Sharif University) </li>
-<li> Diffusion Models (Sharif University) </li>
+<li> Transfer Learning via Diffusion Models (Sharif University) </li>
 </ul>
 
 In my non-academic life, I enjoy hiking & biking! 
