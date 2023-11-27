@@ -16,7 +16,7 @@ Ensured data accuracy and compliance with industry standards while creating a sp
 Investigated human movement during sleep using infrared video data. Adapted deep models to infrared data and used unsupervised domain adaptation to address regression challenges.
 
 ### Research Intern at [Robust/Interpretable ML Lab, Sharif](https://github.com/rohban-lab)
-**Supervisor:** [Prof. Mohammad Hossein Rohban](https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en)
+<!-- **Supervisor:** [Prof. Mohammad Hossein Rohban](https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en) -->
 
 - **Diffusion on [MIDOG challenge](https://midog2022.grand-challenge.org/)**
   - Addressed domain shift in a medical dataset using diffusion models to generate images across diverse domains.

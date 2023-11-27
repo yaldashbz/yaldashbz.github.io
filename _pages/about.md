@@ -28,7 +28,7 @@ My research interests lie in the area of:</p>
 <li> Multi-task & Meta-learning </li>
 </ul>
 
-Throughout my undergraduate studies, I've had the opportunity to work with <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en"> Professor Alexandre Alahi</a>, <a href="https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en"> Professor Sabine Süsstrunk</a>, and <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en"> Professor MohammadHosein Rohban</a>.
+Throughout my undergraduate studies, I've had the opportunity to work with <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en"> Professor Alexandre Alahi</a> and <a href="https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en"> Professor Sabine Süsstrunk</a> in EPFL, along with multiple research experience at Sharif University.
 
 I have working experience on:
 
