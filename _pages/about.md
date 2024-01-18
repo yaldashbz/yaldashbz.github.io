@@ -21,11 +21,12 @@ My research interests lie in the area of:</p>
 
 <ul style="margin-top: -1%;" markdown='1'>
 <li> Machine Learning & Deep Learning </li>
-<li> Computer Vision & Embodied AI </li>
-<li> Reinforcement Learning </li>
+<li> Reasoning in LLMs </li>
 <li> Generalization & Robustness </li>
 <li> Domain Adaptation & Transfer Learning </li>
 <li> Multi-task & Meta-learning </li>
+<li> Computer Vision & Embodied AI </li>
+<li> Reinforcement Learning </li>
 </ul>
 
 Throughout my undergraduate studies, I've had the opportunity to work with <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en"> Professor Alexandre Alahi</a> and <a href="https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en"> Professor Sabine Süsstrunk</a> at EPFL, along with multiple research experience at Sharif University.
