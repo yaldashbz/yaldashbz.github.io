@@ -4,7 +4,7 @@ title: Comic Segmentation
 description: Created a specialized comic dataset, conducted fine-tuning of cutting-edge segmentation methods, and devised strategies to combat data imbalance.
 img: assets/img/comic.png
 importance: 1
-category: All
+category: selected
 redirect: false
 github: https://github.com/yaldashbz/comic-seg
 ---
