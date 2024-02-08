@@ -5,5 +5,7 @@ description: Created a system for crawling, searching, classifying, and clusteri
 img: assets/img/web.png
 importance: 3
 category: All
+redirect: false
+url: https://github.com/yaldashbz/web-search-engine
 ---
 
