@@ -5,6 +5,6 @@ description: Use cv methods for hand gesture detection and created a real-time R
 img: assets/img/smart-home.jpg
 importance: 6
 category: All
-redirect: false
-url: https://github.com/yaldashbz/smart-home
+redirect: true
+github: https://github.com/yaldashbz/smart-home
 ---
