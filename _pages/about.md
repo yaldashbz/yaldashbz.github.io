@@ -24,7 +24,7 @@ ul.twocol { width: 110%; }
 </style>
 
 <p style="text-align: justify;">
-I’m Yalda, a last year bachelor's Computer Engineering student at <a href="https://en.sharif.edu/">Sharif University of Technology</a>. I'm on the path to earning my bachelor's degree in January 2024. <br>
+I’m Yalda, a last year bachelor's Computer Engineering student at <a href="https://en.sharif.edu/">Sharif University of Technology</a><br>
 
 My research interests lie in the area of:</p>
 
