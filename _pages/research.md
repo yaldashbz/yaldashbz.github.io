@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Experiences
+title: research experiences
 permalink: /research/
 author_profile: true
 nav: true
