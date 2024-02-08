@@ -1,39 +1,58 @@
 ---
-layout: archive
-title: "Projects"
+layout: page
+title: projects
 permalink: /projects/
-author_profile: true
+description:
+nav: true
+nav_order: 2
+display_categories: [All]
+horizontal: false
 ---
 
-- **Comic Segmentation**
-  - [GitHub Repository](https://github.com/yaldashbz/comic-seg)
-  - Tools: PyTorch, Detectron2, OpenCV
-  - Description: Created a specialized comic dataset, conducted fine-tuning of cutting-edge segmentation methods, and devised strategies to combat data imbalance.
+<!-- pages/projects.md -->
+<div class="projects">
+{%- if site.enable_project_categories and page.display_categories %}
+  <!-- Display categorized projects -->
+  {%- for category in page.display_categories %}
+  <h2 class="category">{{ category }}</h2>
+  {%- assign categorized_projects = site.projects | where: "category", category -%}
+  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+  {% endfor %}
 
-<!-- Uncomment and add more projects if needed -->
-
-- **Adapt Pifpaf**
-  - [GitHub Repository](https://github.com/yaldashbz/adaptpifpaf)
-  - Tools: PyTorch, OpenCV
-  - Description: Explore domain adaptation methods on human keypoint detection on various infrared datasets.
-
-- **Web Search Engine**
-  - [GitHub Repository](https://github.com/yaldashbz/web-search-engine)
-  - Tools: Numpy, Transformers, Django
-  - Description: Created a system for crawling, searching, classifying, and clustering web pages with different NLP-based methods, query expansion, then analyzing search results.
-
-- **Reinforcement Learning Course**
-  - [GitHub Repository](https://github.com/yaldashbz/reinforcement-learning-course)
-  - Tools: PyTorch, Gym
-  - Description: Implement RL methods for different approaches like Q-learning, Sarsa, PPO, DDPG, Thompson Sampling, Monte-Carlo Tree Search, and Soft Actor-Critic and compare them.
-
-- **Machine Learning Course**
-  - [GitHub Repository](https://github.com/yaldashbz/machine-learning-course)
-  - Tools: PyTorch, TensorFlow, Numpy
-  - Description: Implemented Image Captioning with Recurrent Neural Networks. Implemented Neural Networks & training pipelines from scratch.
-
-- **Vision in Smart Home**
-  - [GitHub Repository](https://github.com/yaldashbz/smart-home)
-  - Tools: TensorFlow, OpenCV
-  - Description: Use vision methods for hand gesture detection and created a real-time Raspberry Pi-based system and subsequent action execution.
-
+{%- else -%}
+<!-- Display projects without categories -->
+  {%- assign sorted_projects = site.projects | sort: "importance" -%}
+  <!-- Generate cards for each project -->
+  {% if page.horizontal -%}
+  <div class="container">
+    <div class="row row-cols-2">
+    {%- for project in sorted_projects -%}
+      {% include projects_horizontal.html %}
+    {%- endfor %}
+    </div>
+  </div>
+  {%- else -%}
+  <div class="grid">
+    {%- for project in sorted_projects -%}
+      {% include projects.html %}
+    {%- endfor %}
+  </div>
+  {%- endif -%}
+{%- endif -%}
+</div>

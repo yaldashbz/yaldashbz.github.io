@@ -1,10 +1,19 @@
 ---
+layout: about
 permalink: /
 title: "Hi!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+profile:
+  align: right
+  image: me.jpg
+  image_circular: false # crops the image to make it circular
+  address: >
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 <style>
@@ -15,7 +24,7 @@ ul.twocol { width: 110%; }
 </style>
 
 <p style="text-align: justify;">
-I’m Yalda, a senior studying Computer Engineering at <a href="https://en.sharif.edu/">Sharif University of Technology</a>. I'm on the path to earning my bachelor's degree in January 2024. <br>
+I’m Yalda, a last year bachelor's Computer Engineering student at <a href="https://en.sharif.edu/">Sharif University of Technology</a>. I'm on the path to earning my bachelor's degree in January 2024. <br>
 
 My research interests lie in the area of:</p>
 
