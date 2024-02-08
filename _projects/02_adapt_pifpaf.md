@@ -3,7 +3,7 @@ layout: page
 title: Adapt Pifpaf
 description: Explore domain adaptation methods on human keypoint detection on various infrared datasets.
 img: assets/img/pifpaf.png
-importance: 2
+importance: 4
 category: All
 redirect: false
 github: https://github.com/yaldashbz/adapt-pifpaf
