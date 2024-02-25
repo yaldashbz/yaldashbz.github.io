@@ -1,15 +1,17 @@
-- title: General Information
+- title: Note
   type: map
   contents:
-    - name: Full Name
-      value: Yalda Shabanzadeh
-    - name: Languages
-      value: English, Persian <em>native</em>, French <em>basic</em>
+    - name: Please refer to the PDF above.
+    - value: 
+    # - name: Full Name
+    #   value: Yalda Shabanzadeh
+    # - name: Languages
+    #   value: English, Persian <em>native</em>, French <em>basic</em>
 
 
-- title: Education
-  type: time_table
-  contents:
-    - title: BSc, Computer Engineering
-      institution: Sharif University of Technology, Iran
-      year: 2019 - 2024
+# - title: Education
+#   type: time_table
+#   contents:
+#     - title: BSc, Computer Engineering
+#       institution: Sharif University of Technology, Iran
+#       year: 2019 - 2024
