@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: hi!
+title: Hi!
 author_profile: true
 redirect_from: 
   - /about/
