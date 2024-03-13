@@ -30,7 +30,6 @@ My research interests lie in the area of:</p>
 
 <ul style="margin-top: -1%;" markdown='1'>
 <li> Machine Learning & Deep Learning </li>
-<li> Reasoning in LLMs </li>
 <li> Generalization & Robustness </li>
 <li> Domain Adaptation & Transfer Learning </li>
 <li> Multi-task & Meta-learning </li>
