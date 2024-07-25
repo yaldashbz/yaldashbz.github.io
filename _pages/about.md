@@ -3,7 +3,7 @@ layout: about
 permalink: /
 title: Hi!
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 profile:
@@ -11,9 +11,9 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-news: false  # includes a list of news items
+news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 <style>
@@ -49,4 +49,4 @@ I have working experience on:
 <li> Transfer Learning via Diffusion Models (Sharif University) </li>
 </ul>
 
-In my non-academic life, I enjoy hiking & biking! 
+In my non-academic life, I enjoy hiking & biking!
