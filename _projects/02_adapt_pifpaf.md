@@ -6,7 +6,7 @@ img: assets/img/pifpaf.png
 importance: 4
 category: selected
 redirect: false
-github: https://github.com/yaldashbz/adapt-pifpaf
+github: https://github.com/yaldashbz/adaptpifpaf
 ---
 
 I got admitted into the Summer@EPFL internship program as one of the top 1-2\% applicants and to intern at the Visual Intelligence for Transportation (<a href="https://www.epfl.ch/labs/vita/">VITA</a>) group at EPFL, supervised by Prof. Alexandre Alahi. I was immersed in a project targeting the detection of REM sleep Behavior Disorder (RBD),  in which people have sudden movements during sleep, and detecting this disorder and treating it would prevent Alzheimer’s in the future. Our videos were infrared, making this project even more challenging. In the initial stages of detecting motion, I delved into the realm of Deep Learning methodologies, like RAFT \& FlowFormer, only to discern that the outcomes fell short of optimal. Consequently, I pivoted towards implementing traditional vision techniques, like background subtraction \& optical flow to extract motion signals from video data. I used anomaly detection methods such as Isolation Forest to identify abnormal points, which unveiled instances of abrupt movements.
