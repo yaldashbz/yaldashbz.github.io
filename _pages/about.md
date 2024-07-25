@@ -45,7 +45,6 @@ I have working experience on:
 <li> Keypoint Detection & Domain Adaptation (<a href="https://www.epfl.ch/labs/vita/">VITA</a> at EPFL) </li>
 <li> Image Segmentation & Transfer Learning (<a href="https://www.epfl.ch/labs/ivrl/">IVRL</a> at EPFL) </li>
 <li> Adversarial Learning & Robustness (Sharif University) </li>
-<li> Generalization of Deep Models (Sharif University) </li>
 <li> Transfer Learning via Diffusion Models (Sharif University) </li>
 </ul>
 
