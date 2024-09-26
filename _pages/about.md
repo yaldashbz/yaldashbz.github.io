@@ -34,11 +34,12 @@ My research interests lie in the area of:</p>
 <li> Domain Adaptation & Transfer Learning </li>
 </ul>
 
-Throughout my undergraduate studies, I've had the opportunity to work with <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en"> Professor Alexandre Alahi</a> and <a href="https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en"> Professor Sabine Süsstrunk</a> at EPFL, along with multiple research experience at Sharif University.
+Throughout my undergraduate studies, I've had the opportunity to work with <a href="https://scholar.google.com/citations?user=75q-6ZQAAAAJ&hl=en">Professor Dan Alistarh</a> at IST Austria, <a href="https://scholar.google.com/citations?user=UIhXQ64AAAAJ&hl=en">Professor Alexandre Alahi</a> , and <a href="https://scholar.google.com/citations?user=EX3OYP4AAAAJ&hl=en">Professor Sabine Süsstrunk</a> at EPFL, along with multiple research experience at Sharif University.
 
 I have working experience on:
 
 <ul style="margin-top: -1%;" markdown='1'>
+<li> LLM Quantization and Evaluation (<a href="https://ist.ac.at/en/research/alistarh-group/">Alistarh Group</a> at IST Austria) </li>
 <li> Keypoint Detection & Domain Adaptation (<a href="https://www.epfl.ch/labs/vita/">VITA</a> at EPFL) </li>
 <li> Image Segmentation & Transfer Learning (<a href="https://www.epfl.ch/labs/ivrl/">IVRL</a> at EPFL) </li>
 <li> Adversarial Learning & Robustness (Sharif University) </li>
